@@ -40,22 +40,22 @@ My students use Googledocs for peer reviewing papers. They highlight a peice of 
 
 ## Pegagogical Goals
 
-Before using Hypothes.is, let's come up with some pedagogical goals. First, we will think about some ways you might use Digital Annotation for your own purposes. This exercise works well with a partner or small group, but you can complete it on your own. 
+Before using hypothesis, let's come up with some pedagogical goals. First, we will think about some ways you might use Digital Annotation for your own purposes. This exercise works well with a partner or small group, but you can complete it on your own. 
 - How are you or people you know already deploying annotation tools or techniques for teaching and learning? How do you want to use annotation for the classroom? Think of some examples that address your own goals and needs with digital annotation. You can say things like, "To have students take notes while I'm lecturing" or "To model close reading' strategies."
 
 See some examples of my own usage in teaching: 
 
-![Image using Hypothes.is to highlight and comment on textual elements in Shakespeare](./images/shakes.png)
+![Image using hypothesis to highlight and comment on textual elements in Shakespeare](./images/shakes.png)
 
-In this image, I use Hypothes.is for modeling "close reading," or close attention to textual detail. Close reading can emphasize elements like figuration or word choice. Here, I'm using annotation to show my students how to dig deeper into the literary devices like metaphor, simile, and imagery. After modeling this activity for my students, they then used annotation to find and analyze other literary devices in the text.
+In this image, I use hypothesis for modeling "close reading," or close attention to textual detail. Close reading can emphasize elements like figuration or word choice. Here, I'm using annotation to show my students how to dig deeper into the literary devices like metaphor, simile, and imagery. After modeling this activity for my students, they then used annotation to find and analyze other literary devices in the text.
 
-![Image using Hypothes.is to highlight and comment on textual elements in Junot Diaz](./images/diaz.png)
+![Image using hypothesis to highlight and comment on textual elements in Junot Diaz](./images/diaz.png)
 
 Here, you can see a more free form use of annotation, with students taking initiative to comment on what seems most interesting to them. For this class, I gave explicit directions for students to comment on things that are striking to them.
 
 ## Some examples of use cases
 
-Now let's dive into some use cases. The Hypothes.is folks have come up with a useful article outlining [10 Ways to Annotate with Students](https://web.hypothes.is/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/). Here we have some great starting points for integrading annotation into your classroom. I'm going to highlight a few of the more inspiring strategies, which you can adapt to your own purposes:
+Now let's dive into some use cases. The hypothesis folks have come up with a useful article outlining [10 Ways to Annotate with Students](https://web.hypothesis/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/). Here we have some great starting points for integrading annotation into your classroom. I'm going to highlight a few of the more inspiring strategies, which you can adapt to your own purposes:
 
 ### Teacher Annotations:
 Pre-populate a text with questions for students to reply to in annotations, or with notes elucidating important points as they read. This is a good opportunity to guide your students toward discussing specific themes and passages in preparation for class discussion. 
@@ -70,7 +70,7 @@ Have students highlight, tag, and annotate words or passages that are confusing 
 Have students identify formal textual elements and broader social and historical contexts at work in specific passages. This is a particularly effective way to teach critical reading strategies and draw students' attention to the ways that language, figuration, and rhetoric can influence our reading of a text. 
 
 ### Creating Annotated Bibliographies: 
-This method gives students a bit more freedom. Have them research a topic or theme and tag and annotate relevant texts across the Internet. You can follow along with their progress by tracking their username on the hypothes.is website.
+This method gives students a bit more freedom. Have them research a topic or theme and tag and annotate relevant texts across the Internet. You can follow along with their progress by tracking their username on the hypothesis website.
 
 ### Annotation as Multimedia Writing
 For a more playful and experimental assignment, have students annotate with images and video or integrate images and video into other types of annotations. Students will need to think creatively about what images or video relate to specific moments in the text. 
@@ -85,15 +85,98 @@ If you want to give your students some guidelines for annotating, send them thes
 
 # Up and Running with H
 
-## Creating an account on Hypothes.is
+## Creating an Account on hypothesis
 
-Please sign up for an account (do not install the plugin yet) on https://web.hypothes.is/start/
+Please sign up for an account (do not install the plugin yet) on https://web.hypothes.is/start/. 
+
+![Image for the "Get Started" page on hypothesis](./images/get_started.png)
 
 Press "Create A Free Account," and enter in your name, email, and password. 
 
-![Image for the "Get Started" page on hypothes.is](./images/get_started.png)
+That's it! You're now a registered member of hypothesis. 
+
+Next, we are going to look at how to use H to annotate. *There are **four** options for using hypothesis*. We will begin with the CUNY Academic Commons, then look at a couple of browser extensions (for Firefox and Chrome), check out a URL workaround, then finish with the embedding option (for the advanced user). 
+
+The reason we are looking at four different ways of using H is to give you the flexibility for using any one of these options. Your technological circumstance will depend on whether you're reading texts on a course website, such as PDFs that you upload, or on the web generally, like news websites or blog posts. You'll also learn some hacky ways of deploying hypothesis, as a backup method if the other methods fail. The main thing is to remain flexible to different technological contexts, so you can provide your students with options and react to obstacles as they arise.
+
+That being said, let's dive into the four options for using H. 
+
+# First Option: H on the CUNY Academic Commons
+
+Using H on the CUNY Academic Commons is the easiest option for your students, as you will soon see. They won't have to download or configure anything on their own, because you've already done it for them. They will just need to navigate to the correct web page and the annotation tool will load and work automatically. 
+
+This is also arguably the easiest method for the teacher, provided that they already have a course website on the Commons. If you don't have an account on the CUNY Academic Commons, [sign up here](https://commons.gc.cuny.edu/register/). And, if you don't have a course website set up, you can [follow these directions](https://help.commons.gc.cuny.edu/creation-portal-sites/). 
+
+Got a website set up? Good. Now we can activate the hypothesis plugin on your new course website. The CUNY Academic Commons offers a number of "Wordpress Plugins" that are already installed on your site and need to be activated. 
+
+First, navigate to your Dashboard. This should be the main landing page when you click on your site from the dropdown menu on the upper right corner. To get there, hover over your profile picture, then hover over "My Sites," then click on the relevant site. It should bring you to this page:
+
+![Image of Dashboard on CUNY Academic Commons](./images/dashboard.png)
+
+Once you're here, navigate over to the panel on the left. Look for the tab that says "Plugins." Hover over it or click on it, then click on "Installed Plugins."
+
+![Image of navigation to the Plugins tab](./images/plugins.png)
+
+Next, you'll see a *loooong* list of plugins that are already installed, but NOT activated, on your website. Scroll down or (if you're a pro) `Control-F` to find Hypothesis. 
+
+Found it? Good. Now click on the "Activate" button underneath the name.
+
+![Image of Activating H](./images/plugins1.png)
+
+Great! You're almost there. 
+
+Now we need to configure Hypothesis in your settings. Back in your Dashboard menu, find the "Settings" tab. Hover or click on the tab, and look for the "Hypothesis" option (Which should be there, now that you've activated Hypothesis. If it's *not* there, go back and make sure you've activated it on the Plugins directory). 
+
+![](./images/settings.png)
+
+Once you click on Hypothesis, you'll be taken to the settings page.
+
+Here, things are up to you. I generally click the first three boxes, which makes highlights and the sidebar show up on default, and enables PDF annotation, which is essential if you'll be uploading PDFs for your class to read.
+
+If I don't want Hypothesis to load on the front page, or on specific pages, I just check the relevant boxes.
+
+![Image of options for Settings tab](./images/settings1.png)
+
+At the bottom, if you want to manually type in the page names, be sure to refer to the page name in the URL (in other words, navigate to the page in your browser, then take a look at the URL bar to see the page name within the larger URL statement). If you're going to manually enter more than one page, use commas and no spaces to separate page names.
+
+![Image of Configuring H Setting](./images/settings2.png)
+
+Always remember to press "Save Changes" at the bottom of this page after you've finished configuring your settings. 
+
+And that's it! You should be able to see Hypothesis automatically load on the pages or PDFs of your course site, depending on how you've configured the settings. If it's not to your liking, you can always come back to change things later. 
+
+# Second Option: H as a Browser Extension
+
+## Firefox: the Bookmarklet
+
+## Chrome: the Plugin
+
+# Third Option: The Via Method
+
+# Fourth Option: Embedding H into your Website
+
+# Reading Groups
 
 
+![](./images/.png)
+
+
+![](./images/.png)
+
+
+![](./images/.png)
+
+
+![](./images/.png)
+
+
+![](./images/.png)
+
+
+![](./images/.png)
+
+
+![](./images/.png)
 
 
 
