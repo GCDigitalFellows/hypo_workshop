@@ -2,20 +2,20 @@
 
 ## Abstract
 
-For this workshop, we will explore using [Hypothes.is](https://web.hypothes.is/), a versatile digital annotation tool, to enhance teaching in synchronous and asynchronous contexts. Throughout the workshop, we review the various options for deploying Hypothes.is on a web browser. By introducing participants to the different options of using this tool, the workshop empowers instructors remain flexible as they adapt to student needs and technological contexts. Participants will leave this workshop with concrete skills for using digital annotation, as well as some ideas for how it might enhance their own goals for the classroom. 
+For this workshop, we will explore [Hypothes.is](https://web.hypothes.is/), a versatile digital annotation tool, for social reading in synchronous and asynchronous contexts. Throughout the workshop, we review the various options for deploying Hypothes.is on a web browser. By introducing participants to the different options of using this tool, the workshop empowers instructors remain flexible as they adapt to student needs and technological contexts. Participants will leave this workshop with concrete skills for using digital annotation, as well as some ideas for how it might enhance their own goals for the classroom. 
 
-We will examine the following applications for Hypothes.is: first, in a course site on the [CUNY Academic Commons](https://commons.gc.cuny.edu/); second, as a browser extension that can be activated on top of most webpages; third, by embedding it into the code of a website; and fourth, by using the URL "prefix" as a workaround or backup plan. Learning to use thes  various options allow instructors to then provide students with the path of least resistance for using digital annotation.
+We will examine the following applications for Hypothes.is: first, in a course site on the [CUNY Academic Commons](https://commons.gc.cuny.edu/); second, as a browser extension that can be activated on top of most webpages; third, by embedding it into the code of a website; and fourth, by using the URL "prefix" as a workaround or backup plan. Learning to use these various options allow instructors to provide students with the path of least resistance for using digital annotation.
 
-Workshop Sections:
-[What is Digital Annotation?](./digital_annotation.md)
-[Install Hypothe.is](./install.md)
-[Using H on the CUNY Academic Commons](./h_commons.md)
-[Using H as a browser extension](./h_extension.md)
-[Embedding H in your web pages](./h_embed.md)
-[Using the URL prefix](./via_method.md)
-[Configuring reading groups](./reading_groups.md)
+Workshop Sections:\
+[What is Digital Annotation?](./digital_annotation.md)\
+[Install Hypothe.is](./install.md)\
+[Using H on the CUNY Academic Commons](./h_commons.md)\
+[Using H as a browser extension](./h_extension.md)\
+[Embedding H in your web pages](./h_embed.md)\
+[Using the URL prefix](./via_method.md)\
+[Configuring reading groups](./reading_groups.md)\
 
-[Get Started >>>](./digital_annotation.md)
+[Get Started >>>](./digital_annotation.md)\
 
 ## Learning Objectives
 
@@ -34,8 +34,6 @@ In this workshop, participants will:
 - Familiarity with the CUNY Academic Commons (if applicable)
 
 ## Contexts
-
-You will need access to an internet browser (Firefox or Chrome) with internet connection. 
 
 ### Pre-reading suggestions
 
