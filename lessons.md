@@ -232,6 +232,33 @@ Neat, right? This little snippit `https://via.hypothes.is/ `, which works like a
 
 # Fourth Option: Embedding H into your Website
 
+This is the most advanced option. It requires that you have access to your own website, and can modify the html files that make up your website. If you do have access to your html files, you can insert a little script at the bottom of each file that tells the browser to load Hypothesis automatically on that page. 
+
+In the case that you do have a course website and access to the html files, this would be the easiest option for your students. They would just have to navigate to the website, and the tool will appear immediately, with no need to download or install any plugins. From the perspective of the student, this option is easiest to use, and similar to their experience on a CUNY Academic Commons page that has Hypothesis enabled. 
+
+To embed Hypothesis into your website, open up your desired html file. I'm going to use the html file from my personal website as an example. Your file will look different from mine, but it should have the same html structure, with html, head, and body tags, like below:
+
+![Basic HTML file from filipacalado.com, showing the index page](./images/embed1.png)
+
+Next, you'll go to the section of the page that has all the scripts. Search for the `<script>` tag, which should be somewhere near the bottom of the `<body>` section. Here, you're going to add a new script, which is pretty simple. Just copy and paste the below script into the script section of your html page:
+
+> `<script src="https://hypothes.is/embed.js" async></script>`
+
+Now, your HTML page should have the script included.
+
+![image of HTML file with hypothesis script included in scripts section](./images/embed2.png)
+
+
+The browser, when it sees this script, goes to the source website at `https://hypothes.is/embed.js` (do not try to read this!) that has all the directions for loading hypothesis for that page. It then executes these directions. 
+
+Once you've saved and reloaded the page, the Hypothesis sidebar should pop up on the right-hand side. You can expand it, then login to annotate. 
+
+![image of hypothesis sidebar loaded on a personal website](./images/embed3.png)
+
+And that's it!
+
+If you need more help or want to further configure how Hypothesis appears on the site, check out the [more detailed instructions here](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/).
+
 # Reading Groups
 
 
