@@ -103,6 +103,8 @@ That being said, let's dive into the four options for using H.
 
 # First Option: H on the CUNY Academic Commons
 
+First, if you haven't already, please [sign up for a Hypothesis account](https://hypothes.is/signup). 
+
 Using H on the CUNY Academic Commons is the easiest option for your students. They won't have to download or configure anything on their own, because you've already done it for them. They will just need to navigate to the correct CUNY Academic Commons course website and the annotation tool will function automatically. 
 
 This is also arguably the easiest method for the teacher, provided that they already have a course website on the Commons. If you don't have an account on the CUNY Academic Commons, [sign up here](https://commons.gc.cuny.edu/register/). And, if you don't have a course website set up, you can [follow these directions](https://help.commons.gc.cuny.edu/creation-portal-sites/). 
@@ -208,11 +210,13 @@ In order to make annotations, you'll have to login to your Hypothesis account.
 
 # Third Option: The Via Method
 
-This option is slightly more advanced than the browser extension method, but it is more reliable and can be a good back-up method in the event that the browser extension isn't working properly. You can think of it as a "hack" that gets hypothesis to load when all else fails. 
+This option is slightly more advanced than the browser extension method, but it is more reliable and can be a good back-up method in the event that the browser extension isn't working properly. You can think of it as a hack that gets hypothesis to load when all else fails. 
 
-Whenever I teach a class that uses Hypothesis, I always introduce my students to this method, even if I do not explicitly have them use it. The reason is that I want them to be familiar with this back-up option in the case that Hypothesis isn't working. At some point or another, I've had issues with getting the extension to load, as well as minor problems with loading the tool on my CUNY Academic Commons page. The Via Method is pretty reliable and functions as a last minute workaround that "forces" the Hypothesis tool to activate.
+Whenever I teach a class that uses Hypothesis, I always introduce my students to this method, even if I do not explicitly have them use it. The reason is that I want them to be familiar with this back-up option because, at some point or another, we'll might have trouble getting extension to load, or the CUNY Academic Commons tool to work properly. The Via Method is fairly reliable and functions as a last minute workaround that forces the Hypothesis tool to activate.
 
-The process for using the Via Method is very straightforward. First, navigate to the webpage where you want to use Hypothesis. Then, take a look at the URL bar, it should look something like this:
+First, if you haven't already, please [sign up for a Hypothesis account](https://hypothes.is/signup). 
+
+The process for using the Via Method is very straightforward. Begin by navigating to the webpage where you want to use Hypothesis. Then, take a look at the URL bar, it should look something like this:
 
 > `https://www.wsj.com`
 
@@ -220,21 +224,23 @@ At the beginning of the URL, add the following text, making sure that you includ
 
 > `https://via.hypothes.is/` 
 
-This snippit is known as the **via link**. The URL bar should then appear like so:
+This snippit is known as the **via link**. I consider it like a prefix that you just add to the beginning of the URL. The URL bar should then appear like so:
 
 > `https://via.hypothes.is/https://www.wsj.com`
 
-![image of via url as prefix to the regular website url](./images/via.png)
-
 When everything looks ready, you can reload the page (do this by pressing enter). The Hypothesis sidebar should automatically appear, which you can see on the right hand side. 
 
-Neat, right? This little snippit `https://via.hypothes.is/ `, which works like a "prefix," activates hypothesis on whatever website that follows the Via URL. You can copy and paste the snippit wherever you want it, and you don't need to mess with the browser extension or embedding the tool at all. Like I said before, the Via Method works very well as a back-up option. 
+![image of via url as prefix to the regular website url](./images/via.png)
+
+Neat, right? This little prefix `https://via.hypothes.is/ ` activates hypothesis on whatever website that follows the Via URL. You can copy and paste the snippit wherever you want it, and you don't need to mess with the browser extension or embedding the tool at all. Like I said before, the Via Method works very well as a back-up option. 
 
 # Fourth Option: Embedding H into your Website
 
-This is the most advanced option. It requires that you have access to your own website, and can modify the html files that make up your website. If you do have access to your html files, you can insert a little script at the bottom of each file that tells the browser to load Hypothesis automatically on that page. 
+This is the more advanced option. It requires that you have access to your own website, and can modify the HTML files that make up your website. If you *do* have access to your HTML files, you can insert a little script at the bottom of each file that tells the browser to load Hypothesis automatically on that page. 
 
-In the case that you do have a course website and access to the html files, this would be the easiest option for your students. They would just have to navigate to the website, and the tool will appear immediately, with no need to download or install any plugins. From the perspective of the student, this option is easiest to use, and similar to their experience on a CUNY Academic Commons page that has Hypothesis enabled. 
+If you set up your website with the embedding link, this would be the easiest option for your students. All they have to do is navigate to the website, and the tool will appear immediately, with no need to download or install any plugins. From the perspective of the student, this option is easiest to use, and similar to their experience on a CUNY Academic Commons page that has Hypothesis enabled. Let's jump into how it works. 
+
+First, if you haven't already, please [sign up for a Hypothesis account](https://hypothes.is/signup). 
 
 To embed Hypothesis into your website, open up your desired html file. I'm going to use the html file from my personal website as an example. Your file will look different from mine, but it should have the same html structure, with html, head, and body tags, like below:
 

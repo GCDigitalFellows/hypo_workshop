@@ -6,28 +6,21 @@ For this workshop, we will explore [Hypothes.is](https://web.hypothes.is/), a ve
 
 We will examine the following applications for Hypothes.is: first, in a course site on the [CUNY Academic Commons](https://commons.gc.cuny.edu/); second, as a browser extension that can be activated on top of most webpages; third, by embedding it into the code of a website; and fourth, by using the URL "prefix" as a workaround or backup plan. Learning to use these various options allow instructors to provide students with the path of least resistance for using digital annotation.
 
-Workshop Sections:\
-[What is Digital Annotation?](./digital_annotation.md)\
-[Install Hypothe.is](./install.md)\
-[Using H on the CUNY Academic Commons](./h_commons.md)\
-[Using H as a browser extension](./h_extension.md)\
-[Embedding H in your web pages](./h_embed.md)\
-[Using the URL prefix](./via_method.md)\
-[Configuring reading groups](./reading_groups.md)\
-
-[Get Started >>>](./digital_annotation.md)\
-
 ## Learning Objectives
 
 In this workshop, participants will:
 
 - become familiar with Digital Annotation as a pedagogical method
-- learn how to embed and activate Hypothes.is on web pages
+- learn how to activate Hypothes.is on:
+    - The CUNY Academic Commons
+    - Firefox and Chrome browsers
+    - Via URL manipulation
+    - On personally owned/mangaged web pages
 - develop the flexibility to use Hypothes.is according to student needs
 
 ## Estimated time
 
-10 hours.
+2 hours.
 
 ## Prerequisites
 
