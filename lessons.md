@@ -39,7 +39,6 @@ My students use Googledocs for peer reviewing papers. They highlight a peice of 
 ![Image of commenting on Googledocs](./images/googledocs.png)
 
 ## Pegagogical Goals
-<!-- More info on why annotation is useful, serving as a pedagogical tool, with cognitive and social values. Help people to see some of the thinking I've already done here. -->
 
 Before using hypothesis, let's come up with some pedagogical goals. First, we will think about some ways you might use Digital Annotation for your own purposes. This exercise works well with a partner or small group, but you can complete it on your own. 
 - How are you or people you know already deploying annotation tools or techniques for teaching and learning? How do you want to use annotation for the classroom? Think of some examples that address your own goals and needs with digital annotation. You can say things like, "To have students take notes while I'm lecturing" or "To model close reading' strategies."
@@ -52,7 +51,15 @@ In this image, I use hypothesis for modeling "close reading," or close attention
 
 ![Image using hypothesis to highlight and comment on textual elements in Junot Diaz](./images/diaz.png)
 
-Here, you can see a more free form use of annotation, with students taking initiative to comment on what seems most interesting to them. For this class, I gave explicit directions for students to comment on things that are striking to them.
+Here, you can see a more free form use of annotation, with students taking initiative to comment on what seems most interesting to them. For this class, I gave explicit directions for students to comment on things that are striking to them, while still providing them with some prompts to act as guidance. Here are the prompts that I distributed to my students:
+
+Your comment might do any of the following: 
+- In your comment, identify a **literary device** from the text selection, and explain how the device enhances a certain quality about the person or idea that is being described, or relates to a course theme. 
+- In your comment, pinpoint **a theme or recurring idea** from the text. How does the text selection elaborate or complicate the theme? 
+- Use your comment as a space to work toward crafting **a discussion question** about the text selection. Think of a question that would provoke discussion and even debate among your peers. 
+- Instead of creating your own comment, you can **respond to someone else**, and use that opportunity to offer your own thoughts or extend the conversation. You can use their as a jumping off point for your own ideas, or present another point of view on the topic.
+
+I've found that giving my students some structure is much more effective for encouraging them to annotate. With this structure, I'm able to guide their responses toward achieving some of our learning objectives of the course. Often, they use these prompts as a starting point that leads them toward a more freeform and generative answer. I think of these guidelines as an enabling constraint. 
 
 ## Some examples of use cases
 
@@ -100,7 +107,19 @@ Next, we are going to look at how to use H to annotate. *There are **four** opti
 
 The reason we are looking at four different ways of using H is to give you the flexibility for using any one of these options. Your technological circumstance will depend on whether you're reading texts on a course website, such as PDFs that you upload, or on the web generally, like news websites or blog posts. You'll also learn some hacky ways of deploying hypothesis, as a backup method if the other methods fail. The main thing is to remain flexible to different technological contexts, so you can provide your students with options and react to obstacles as they arise.
 
-That being said, let's dive into the four options for using H. 
+## Making Annotations
+
+For this workshop, we won't be making any annotations. Instead, the focus is on learning how to install and activate the Hypothesis tool. 
+
+That being said, making annotations is very intuitive, once you have Hypothesis installed and activated. To highlight, all you need to do is select a peice of text. Do this by clicking and dragging your pointer over a bit of text. Then, a little annotation toolbar will pop up with two options, "Highlight" and "Annotate." To highlight, simply press the highlight button, and the selection will appear in yellow. 
+
+![Image of Hypothesis toolbar](./images/h1.png)
+
+To annotate, press the relevant button, and the sidebar will expand. Now, you'll be prompted to type into a textbox. After you're done typing your answer, press "Post to Public." 
+
+![Image of Hypothesis Sidebar](./images/h2.png)
+
+And that's it! Now, let's dive into the four options for using H. 
 
 # First Option: H on the CUNY Academic Commons
 <!-- Add consideration for what CMS your campus is using, how do you work with your campus? What does Queens use? -->
@@ -309,10 +328,3 @@ If you want more help with configuring groups, check out Hypothesis's [Reading G
 You've reached the completion of the workshop. Please join me for a live demonstration of using Hypothesis at ___ . In that synchronous workshop, I'll walk participants through the four different options for using Hypothesis and Reading Groups, and will take questions. We will also discuss some strategies for incorporating Digital Annotation into your remote teaching. 
 
 Thank you for reading!
-
-
-
-
-
-
-
