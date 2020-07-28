@@ -39,6 +39,7 @@ My students use Googledocs for peer reviewing papers. They highlight a peice of 
 ![Image of commenting on Googledocs](./images/googledocs.png)
 
 ## Pegagogical Goals
+<!-- More info on why annotation is useful, serving as a pedagogical tool, with cognitive and social values. Help people to see some of the thinking I've already done here. -->
 
 Before using hypothesis, let's come up with some pedagogical goals. First, we will think about some ways you might use Digital Annotation for your own purposes. This exercise works well with a partner or small group, but you can complete it on your own. 
 - How are you or people you know already deploying annotation tools or techniques for teaching and learning? How do you want to use annotation for the classroom? Think of some examples that address your own goals and needs with digital annotation. You can say things like, "To have students take notes while I'm lecturing" or "To model close reading' strategies."
@@ -102,6 +103,7 @@ The reason we are looking at four different ways of using H is to give you the f
 That being said, let's dive into the four options for using H. 
 
 # First Option: H on the CUNY Academic Commons
+<!-- Add consideration for what CMS your campus is using, how do you work with your campus? What does Queens use? -->
 
 First, if you haven't already, please [sign up for a Hypothesis account](https://hypothes.is/signup). 
 
@@ -254,7 +256,6 @@ Now, your HTML page should have the script included.
 
 ![image of HTML file with hypothesis script included in scripts section](./images/embed2.png)
 
-
 The browser, when it sees this script, goes to the source website at `https://hypothes.is/embed.js` (do not try to read this!) that has all the directions for loading hypothesis for that page. It then executes these directions. 
 
 Once you've saved and reloaded the page, the Hypothesis sidebar should pop up on the right-hand side. You can expand it, then login to annotate. 
@@ -267,27 +268,47 @@ If you need more help or want to further configure how Hypothesis appears on the
 
 # Reading Groups
 
+Have your students annotate as part of a “Reading Group,” which keeps groups annotations limited to viewing and responding within group members. Reading groups are recommended if you want multiple groups annotating the same document over time, and necessary if you want those groups of people to not see previous group’s annotations (for example, annotations from a class last semester). They are also easier for grading, because instructors will have access to all of the annotations in one place. 
 
+To create reading groups, send your students a registration link to join the group. Then, when they are ready to annotate, have them switch annotation mode from “public” or “private” to your Group Mode. Specific instructions on doing this are below: 
 
+Before getting started, make sure you have [created an account on Hypothesis](https://hypothes.is/signup). 
 
+Then, go to your account page on Hypothes.is (the first page after loggin in). On the top right hand corner, there's a little tab called "Groups." Click or hover on this tab to open the drop-down menu. Select "Create a New Group."
 
-![](./images/.png)
+![Image of selecting Create New Group from H Account page drop down menu](./images/groups1.png)
 
+Give a name to the group. I usually use my course code, with the section number, like ENLG22049, or something. Below the group name, include a brief description of the group, using the full course name, school, and semester/year. 
 
-![](./images/.png)
+ Then, copy the link to group registration. This link will be in the bottom right hand corner of the page.
 
+![Copy the link to the group registration](./images/groups2.png)
 
-![](./images/.png)
+Once you have the link copied, you can send it directly to your students. They will click on the link, and automatically join the group. 
 
+Now, in order to annotate in "Group Mode," you need to activate that reading mode in your Hypothesis sidebar. 
 
-![](./images/.png)
+First, activate Hypothesis on your webpage (if not already activated). Make sure you are logged in. 
 
+Then, expand the sidebar by clicking the arrow on the right. Now, look for the "Public" tab at the top of the sidebar. Click or hover on this tab, and a dropdown menu will appear. Here, select the group that you want to activate. 
 
-![](./images/.png)
+![Image of selecting reading group from H sidebar](./images/groups3.png)
 
+And that's it! 
 
-![](./images/.png)
+Remember to remind your students to select this group before annotating. Otherwise, their annotations will default to the "Public" mode and won't be visible within the group. 
 
+You can review group activity on the Hypothesis user page. Just navigate to your account on Hypothes.is, and at the top right, where it says "Groups," select your group. You will be taken to a page that shows all the documents annotated by that group. By selecting the individual documents, you'll get a list of all the annotators on that page. This is a quick and easy way to check who has annotated a given page, without having to scroll through all the annotations. 
+
+![Image of viewing group activity on H website](./images/groups4.png)
+
+If you want more help with configuring groups, check out Hypothesis's [Reading Groups tutorial](https://web.hypothes.is/help/annotating-with-groups/).
+
+# That's it!
+
+You've reached the completion of the workshop. Please join me for a live demonstration of using Hypothesis at ___ . In that synchronous workshop, I'll walk participants through the four different options for using Hypothesis and Reading Groups, and will take questions. We will also discuss some strategies for incorporating Digital Annotation into your remote teaching. 
+
+Thank you for reading!
 
 
 
