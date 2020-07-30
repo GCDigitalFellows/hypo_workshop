@@ -30,13 +30,13 @@ First is **Adobe Reader/Acrobat**, a standalone app (meaning that you download t
 
 In the below image, you can see the annotation icon on the right-hand margin, and the comment that corresponds to that icon on the panel. I've used Adobe Acrobat "comment" function to respond to student papers.
 
-![Image of commenting on Adobe Acrobat](https://github.com/gofilipa/hypo_workshop/blob/master/images/adobe.png)
+![Image of commenting on Adobe Acrobat](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/adobe.png)
 
 Second is **Googledocs**, is a web app (an application in your web browser) that can be used to draft, highlight, and comment text with others.
 
 My students use Googledocs for peer reviewing papers. They highlight a peice of text, and write a comment. You can see their comments on the right-hand side.
 
-![Image of commenting on Googledocs](https://github.com/gofilipa/hypo_workshop/blob/master/images/googledocs.png)
+![Image of commenting on Googledocs](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/googledocs.png)
 
 ## Pegagogical Goals
 
@@ -45,11 +45,11 @@ Before using hypothesis, let's come up with some pedagogical goals. First, we wi
 
 See some examples of my own usage in teaching: 
 
-![Image using hypothesis to highlight and comment on textual elements in Shakespeare](https://github.com/gofilipa/hypo_workshop/blob/master/images/shakes.png)
+![Image using hypothesis to highlight and comment on textual elements in Shakespeare](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/shakes.png)
 
 In this image, I use hypothesis for modeling "close reading," or close attention to textual detail. Close reading can emphasize elements like figuration or word choice. Here, I'm using annotation to show my students how to dig deeper into the literary devices like metaphor, simile, and imagery. After modeling this activity for my students, they then used annotation to find and analyze other literary devices in the text.
 
-![Image using hypothesis to highlight and comment on textual elements in Junot Diaz](https://github.com/gofilipa/hypo_workshop/blob/master/images/diaz.png)
+![Image using hypothesis to highlight and comment on textual elements in Junot Diaz](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/diaz.png)
 
 Here, you can see a more free form use of annotation, with students taking initiative to comment on what seems most interesting to them. For this class, I gave explicit directions for students to comment on things that are striking to them, while still providing them with some prompts to act as guidance. Here are the prompts that I distributed to my students:
 
@@ -97,7 +97,7 @@ If you want to give your students some guidelines for annotating, send them thes
 
 Please sign up for an account (do not install the plugin yet) on https://web.hypothes.is/start/. 
 
-![Image for the "Get Started" page on hypothesis](https://github.com/gofilipa/hypo_workshop/blob/master/images/get_started.png)
+![Image for the "Get Started" page on hypothesis](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/get_started.png)
 
 Press "Create A Free Account," and enter in your name, email, and password. 
 
@@ -113,11 +113,11 @@ For this workshop, we won't be making any annotations. Instead, the focus is on 
 
 That being said, making annotations is very intuitive, once you have Hypothesis installed and activated. To highlight, all you need to do is select a peice of text. Do this by clicking and dragging your pointer over a bit of text. Then, a little annotation toolbar will pop up with two options, "Highlight" and "Annotate." To highlight, simply press the highlight button, and the selection will appear in yellow. 
 
-![Image of Hypothesis toolbar](https://github.com/gofilipa/hypo_workshop/blob/master/images/h1.png)
+![Image of Hypothesis toolbar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/h1.png)
 
 To annotate, press the relevant button, and the sidebar will expand. Now, you'll be prompted to type into a textbox. After you're done typing your answer, press "Post to Public." 
 
-![Image of Hypothesis Sidebar](https://github.com/gofilipa/hypo_workshop/blob/master/images/h2.png)
+![Image of Hypothesis Sidebar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/h2.png)
 
 And that's it! Now, let's dive into the four options for using H. 
 
@@ -134,23 +134,21 @@ Got a website set up? Good. Now we can activate the hypothesis plugin on your ne
 
 First, navigate to your Dashboard. This should be the main landing page when you click on your site from the dropdown menu on the upper right corner. To get there, hover over your profile picture, then hover over "My Sites," then click on the relevant site. It should bring you to this page:
 
-![Image of Dashboard on CUNY Academic Commons](https://github.com/gofilipa/hypo_workshop/blob/master/images/dashboard.png)
+![Image of Dashboard on CUNY Academic Commons](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/dashboard.png)
 
 Once you're here, navigate over to the panel on the left. Look for the tab that says "Plugins." Hover over it or click on it, then click on "Installed Plugins."
 
-![Image of navigation to the Plugins tab](https://github.com/gofilipa/hypo_workshop/blob/master/images/plugins.png)
+![Image of navigation to the Plugins tab](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/plugins.png)
 
 Next, you'll see a *loooong* list of plugins that are already installed, but not activated, on your website. Scroll down or (if you're a pro) `Control-F` to find Hypothesis. 
 
 Found it? Good. Now click on the "Activate" button underneath the name.
 
-![Image of Activating H in Plugins Directory](https://github.com/gofilipa/hypo_workshop/blob/master/images/plugins1.png)
+![Image of Activating H in Plugins Directory](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/plugins1.png)
 
 Great! You're almost there. 
 
 Now we need to configure Hypothesis in your settings. Back in your Dashboard menu, find the "Settings" tab. Hover or click on the tab, and look for the "Hypothesis" option. If the Hypothesis option is *not* there, go back one step and make sure you've activated it on the Plugins directory. 
-
-![](./images/settings.png)
 
 Once you click on Hypothesis, you'll be taken to the "Settings" page.
 
@@ -158,11 +156,11 @@ Here, you will configure where and how the tool operates on your course website.
 
 If I don't want Hypothesis to load on the front page, or on specific pages, I just check the relevant boxes.
 
-![Image of options for Settings tab](https://github.com/gofilipa/hypo_workshop/blob/master/images/settings1.png)
+![Image of options for Settings tab](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/settings1.png)
 
 At the bottom, you can manually indicate which pages that Hypothesis should be active. Type the page names into the text box, making sure to copy the name from the way it appears in the URL (you can navigate to the page in your browser, then take a look at the URL bar to see the page name within the larger URL statement). If you're going to manually enter more than one page, use commas and no spaces to separate page names. See below for an example.
 
-![Image of Configuring H Settings Manually](https://github.com/gofilipa/hypo_workshop/blob/master/images/settings2.png)
+![Image of Configuring H Settings Manually](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/settings2.png)
 
 Always remember to press "Save Changes" at the bottom of this page after you've finished entering your settings. 
 
@@ -182,7 +180,7 @@ If you get stuck or want more information, check out Hypothesis's "[Quick Guide 
 
 Begin on the Hypothesis "Get Started" page. Under the step #2 heading, "Add Hypothesis to your browser," look for the **Hypothesis Bookmarklet** button. 
 
-![Image of right-clicking bookmarklet button and the ensuing dropdown menu](https://github.com/gofilipa/hypo_workshop/blob/master/images/bookmark1.png)
+![Image of right-clicking bookmarklet button and the ensuing dropdown menu](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/bookmark1.png)
 
 Right click on this button (on a laptop, you can do this by pressing two fingers on the track pad). From the dropdown menu, select "bookmark this link". 
 
@@ -190,15 +188,15 @@ Alternatively, you can click and drag the button onto your Bookmarks Toolbar. Ei
 
 To activate the tool, you'll simply click on the Hypothes.is bookmark from your bookmark menu. This will automatically load Hypothesis on whatever page is currently in your browser. 
 
-![Image of activating the H bookmarklet](https://github.com/gofilipa/hypo_workshop/blob/master/images/bookmark2.png)
+![Image of activating the H bookmarklet](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/bookmark2.png)
 
 The Hypothesis toolbar should appear on the righthand side, as a panel on the edge of your window. You can expand the toolbar by clicking on the little arrow at the top of this panel.
 
-![Image of expanding toolbar](https://github.com/gofilipa/hypo_workshop/blob/master/images/firefox_expand.png)
+![Image of expanding toolbar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/firefox_expand.png)
 
 In order to make annotations, you'll have to login to your Hypothesis account.
 
-![Image of logging into H account](https://github.com/gofilipa/hypo_workshop/blob/master/images/firefox_login.png)
+![Image of logging into H account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/firefox_login.png)
 
 You can test out this method by navigating to your favorite website and clicking the bookmark. You'll see that some really large websites (like [The New York Times](https://nytimes.com)) take a little while to load the tool, while smaller websites (like [CBS New York](https://newyork.cbslocal.com/category/news/ny-news/)) will load the tool almost immediately. Make sure you test out the bookmarklet on whatever site you're using before sending your students over to annotate on that site. 
 
@@ -207,27 +205,27 @@ You can test out this method by navigating to your favorite website and clicking
 First, go to the Google Chrome web store, and [search Hypothesis](https://chrome.google.com/webstore/search/hypothesis). The digital annotation tool should be the top result. 
 
 When you get to the Hypothesis page on the Chrome web store, click "Add To Chrome" on the right. 
-![Image of Add To Chrome button on chrome web store](https://github.com/gofilipa/hypo_workshop/blob/master/images/chrome1.png)
+![Image of Add To Chrome button on chrome web store](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome1.png)
 
 Once you have added Hypothesis as a browser extension, all you need to do is activate the extension. Go to the top right corner of your screen, and click on the button with the three dots, also known as the "More" tab. It should be the furthest icon on your Chrome toolbar.
 
-![Image of clicking on more tab, then more tools, then extensions](https://github.com/gofilipa/hypo_workshop/blob/master/images/chrome2.png)
+![Image of clicking on more tab, then more tools, then extensions](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome2.png)
 
 In the dropdown menu that appears, click on the "More Tools" option. Another dropdown should appear, with a section that says "Extensions." Click on that option. 
 
 Here, you'll make sure that the plugin is turned on by flipping the little switch in the box that says "Hypothesis". 
 
-![Image of H on Chrome Extensions settings, making sure to flip the switch to activate the plugin](https://github.com/gofilipa/hypo_workshop/blob/master/images/chrome2.1.png)
+![Image of H on Chrome Extensions settings, making sure to flip the switch to activate the plugin](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome2.1.png)
 
 The Hypothesis browser extension should now be active on your Chrome browser. You should be able to see it in your toolbar, at the top right. The icon looks like the letter "h" within a speech bubble. 
 
 To activate Hypothesis on the current webpage, simply click on this icon. Then, the Hypothesis toolbar should appear on the righthand side, as a panel on the edge of your window. You can expand the toolbar by clicking on the little arrow at the top of this panel.
 
-![Image of activating Chrome plugin and expanding toolbar](https://github.com/gofilipa/hypo_workshop/blob/master/images/chrome3.png)
+![Image of activating Chrome plugin and expanding toolbar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome3.png)
 
 In order to make annotations, you'll have to login to your Hypothesis account.
 
-![Image of logging into H account](https://github.com/gofilipa/hypo_workshop/blob/master/images/chrome4.png)
+![Image of logging into H account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome4.png)
 
 # Third Option: The Via Method
 
@@ -251,7 +249,7 @@ This snippit is known as the **via link**. I consider it like a prefix that you 
 
 When everything looks ready, you can reload the page (do this by pressing enter). The Hypothesis sidebar should automatically appear, which you can see on the right hand side. 
 
-![image of via url as prefix to the regular website url](https://github.com/gofilipa/hypo_workshop/blob/master/images/via.png)
+![image of via url as prefix to the regular website url](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/via.png)
 
 Neat, right? This little prefix `https://via.hypothes.is/ ` activates hypothesis on whatever website that follows the Via URL. You can copy and paste the snippit wherever you want it, and you don't need to mess with the browser extension or embedding the tool at all. Like I said before, the Via Method works very well as a back-up option. 
 
@@ -265,7 +263,7 @@ First, if you haven't already, please [sign up for a Hypothesis account](https:/
 
 To embed Hypothesis into your website, open up your desired html file. I'm going to use the html file from my personal website as an example. Your file will look different from mine, but it should have the same html structure, with html, head, and body tags, like below:
 
-![Basic HTML file from filipacalado.com, showing the index page](https://github.com/gofilipa/hypo_workshop/blob/master/images/embed1.png)
+![Basic HTML file from filipacalado.com, showing the index page](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/embed1.png)
 
 Next, you'll go to the section of the page that has all the scripts. Search for the `<script>` tag, which should be somewhere near the bottom of the `<body>` section. Here, you're going to add a new script, which is pretty simple. Just copy and paste the below script into the script section of your html page:
 
@@ -273,13 +271,13 @@ Next, you'll go to the section of the page that has all the scripts. Search for 
 
 Now, your HTML page should have the script included.
 
-![image of HTML file with hypothesis script included in scripts section](https://github.com/gofilipa/hypo_workshop/blob/master/images/embed2.png)
+![image of HTML file with hypothesis script included in scripts section](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/embed2.png)
 
 The browser, when it sees this script, goes to the source website at `https://hypothes.is/embed.js` (do not try to read this!) that has all the directions for loading hypothesis for that page. It then executes these directions. 
 
 Once you've saved and reloaded the page, the Hypothesis sidebar should pop up on the right-hand side. You can expand it, then login to annotate. 
 
-![image of hypothesis sidebar loaded on a personal website](https://github.com/gofilipa/hypo_workshop/blob/master/images/embed3.png)
+![image of hypothesis sidebar loaded on a personal website](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/embed3.png)
 
 And that's it!
 
@@ -295,13 +293,13 @@ Before getting started, make sure you have [created an account on Hypothesis](ht
 
 Then, go to your account page on Hypothes.is (the first page after loggin in). On the top right hand corner, there's a little tab called "Groups." Click or hover on this tab to open the drop-down menu. Select "Create a New Group."
 
-![Image of selecting Create New Group from H Account page drop down menu](https://github.com/gofilipa/hypo_workshop/blob/master/images/groups1.png)
+![Image of selecting Create New Group from H Account page drop down menu](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups1.png)
 
 Give a name to the group. I usually use my course code, with the section number, like ENLG22049, or something. Below the group name, include a brief description of the group, using the full course name, school, and semester/year. 
 
  Then, copy the link to group registration. This link will be in the bottom right hand corner of the page.
 
-![Copy the link to the group registration](https://github.com/gofilipa/hypo_workshop/blob/master/images/groups2.png)
+![Copy the link to the group registration](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups2.png)
 
 Once you have the link copied, you can send it directly to your students. They will click on the link, and automatically join the group. 
 
@@ -311,7 +309,7 @@ First, activate Hypothesis on your webpage (if not already activated). Make sure
 
 Then, expand the sidebar by clicking the arrow on the right. Now, look for the "Public" tab at the top of the sidebar. Click or hover on this tab, and a dropdown menu will appear. Here, select the group that you want to activate. 
 
-![Image of selecting reading group from H sidebar](https://github.com/gofilipa/hypo_workshop/blob/master/images/groups3.png)
+![Image of selecting reading group from H sidebar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups3.png)
 
 And that's it! 
 
@@ -319,7 +317,7 @@ Remember to remind your students to select this group before annotating. Otherwi
 
 You can review group activity on the Hypothesis user page. Just navigate to your account on Hypothes.is, and at the top right, where it says "Groups," select your group. You will be taken to a page that shows all the documents annotated by that group. By selecting the individual documents, you'll get a list of all the annotators on that page. This is a quick and easy way to check who has annotated a given page, without having to scroll through all the annotations. 
 
-![Image of viewing group activity on H website](https://github.com/gofilipa/hypo_workshop/blob/master/images/groups4.png)
+![Image of viewing group activity on H website](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups4.png)
 
 If you want more help with configuring groups, check out Hypothesis's [Reading Groups tutorial](https://web.hypothes.is/help/annotating-with-groups/).
 
