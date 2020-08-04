@@ -1,5 +1,31 @@
+# Workshop Overview
+
+For this workshop, we will explore [Hypothes.is](https://web.hypothes.is/), a versatile digital annotation tool, for social reading online. We will review the four available options for deploying Hypothesis in a web browser. By the end of this workshop, participants will:
+
+- become familiar with Digital Annotation as a pedagogical method
+- learn how to activate Hypothesis for:
+    - The CUNY Academic Commons
+    - Firefox and Chrome web browsers
+    - Via URL manipulation
+    - On personally owned or mangaged web pages
+    - For private reading groups
+
+By introducing participants to the different options for using this tool, this workshop empowers instructors to remain flexible in adapting to student needs and technological contexts.
+
+Jump to a specific section of the workshop:
+
+- [What is Digital Annotation?](#What-is-Digital-Annotation?)
+- [Up and Running with Hypothesis](#Up-and-Running-with-Hypothesis)
+- [First Option: on the CUNY Academic Commons](#First-Option:-Hypothesis-on-the-CUNY-Academic-Commons)
+- [Second Option: as a Browser Extension](#Second-Option:-Hypothesis-as-a-Browser-Extension)
+- [Third Option: the Via Method](#Third-Option:-The-Via-Method)
+- [Fourth Option: Embedding into Websites](#Fourth-Option:-Embedding-Hypothesis-into-your-Website)
+- [Configuring Reading Groups](#Reading-Groups)
+
 
 # What is Digital Annotation? 
+
+Let's begin by quickly defining "Digital Annotation." Digital Annotation is the use of digital tools to mark up electronic text, in the form of highlighting or commenting. It can be used individually (for self-study and research purposes) or for social reading.
 
 ## In lieu of introductions
 
@@ -10,13 +36,13 @@ On a sheet of paper or blank text document, explain your interest in Digital Ann
 I'll start: 
 > I've been using Digital Annotation in almost all the English classes that I've taught at Hunter College, CUNY, for the past four years. When I taught English 220: Introduction to Writing about Literature, my goal was to use Digital Annotation to model close reading pratices, particularly identifying and analyzing "literary devices" like metaphor and irony. In other classes, I moved from using annotation to model close reading to using it to encourge my students explore and extrapolate on their own interests when they read. I instructed them to highlight what sticks out to them and to explain why they found it striking. The goal was to get my students to connect discrete moments in narrative to ideas and themes from the work at large. For the future, I'm thinking about annotation in a new way, and I'm more interested in highlights than textual responses. How it might annotation engage embodied reactions or feelings that occur during the reading process? Specifically, I've been playing around with highlighter colors to indicate different kinds of nonverbal or preverbal responses to reading. By using annotation in alternative ways, I hope to open up the we read and engage with texts online.
 
-## Defining "Digital Annotation"
+## Unpacking "Digital Annotation"
 
-Now that we have a stronger sense of what we hope to gain with Digital Annotation, let's jump into the fundamentals. We will begin by unpacking the definition of **Digital Annotation**. 
+Now that we have a stronger sense of what we hope to gain with Digital Annotation, we return to our defintition, taking a closer look into some of the key terms that make up **Digital Annotation**:
 
 > Digital Annotation is the use of *digital tools* to *mark up* electronic text. It can be used individually (for self-study and research purposes) or for *social reading*. 
 
-Let's unpack the terms in italics. 
+Let's unpack the terms in italics: 
 
 *Digital tools*: an application, either standalone (something you download), as a plugin (browser tool), or embedded into a website. 
 
@@ -32,11 +58,11 @@ In the below image, you can see the annotation icon on the right-hand margin, an
 
 ![Image of commenting on Adobe Acrobat](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/adobe.png)
 
-Second is **Googledocs**, is a web app (an application in your web browser) that can be used to draft, highlight, and comment text with others.
+Second is **Google Docs**, is a web app (an application in your web browser) that can be used to draft, highlight, and comment text with others.
 
-My students use Googledocs for peer reviewing papers. They highlight a peice of text, and write a comment. You can see their comments on the right-hand side.
+My students use Google Docs for peer reviewing papers. They highlight a peice of text, and write a comment. You can see their comments on the right-hand side.
 
-![Image of commenting on Googledocs](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/googledocs.png)
+![Image of commenting on Google Docs](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/googledocs.png)
 
 ## Pegagogical Goals
 
@@ -61,7 +87,7 @@ Your comment might do any of the following:
 
 I've found that giving my students some structure is much more effective for encouraging them to annotate. With this structure, I'm able to guide their responses toward achieving some of our learning objectives of the course. Often, they use these prompts as a starting point that leads them toward a more freeform and generative answer. I think of these guidelines as an enabling constraint. 
 
-## Some examples of use cases
+## Sample Assignments for Teaching with Hypothesis
 
 Now let's dive into some use cases. The hypothesis folks have come up with a useful article outlining [10 Ways to Annotate with Students](https://web.hypothesis/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/). Here we have some great starting points for integrading annotation into your classroom. I'm going to highlight a few of the more inspiring strategies, which you can adapt to your own purposes:
 
@@ -91,7 +117,7 @@ For those of you who want to dig into specifics of using annotation in the class
 
 If you want to give your students some guidelines for annotating, send them these [Annotation tips for Students](https://web.hypothes.is/annotation-tips-for-students/). This article goes through how to make an annotation, what to pay attention to, and how to make annotations contribute to the reading (rather than summarize the reading). There's also technical information for students who want a little tutorial on how to use the annotation sidebar. 
 
-# Up and Running with H
+# Up and Running with Hypothesis
 
 ## Creating an Account on hypothesis
 
@@ -103,9 +129,9 @@ Press "Create A Free Account," and enter in your name, email, and password.
 
 That's it! You're now a registered member of hypothesis. 
 
-Next, we are going to look at how to use H to annotate. *There are **four** options for using hypothesis*. We will begin with the CUNY Academic Commons, then look at a couple of browser extensions (for Firefox and Chrome), check out a URL workaround, then finish with the embedding option (for the advanced user). 
+Next, we are going to look at how to use Hypothesis to annotate. *There are **four** options for using hypothesis*. We will begin with the CUNY Academic Commons, then look at a couple of browser extensions (for Firefox and Chrome), check out a URL workaround, then finish with the embedding option (for the advanced user). 
 
-The reason we are looking at four different ways of using H is to give you the flexibility for using any one of these options. Your technological circumstance will depend on whether you're reading texts on a course website, such as PDFs that you upload, or on the web generally, like news websites or blog posts. You'll also learn some hacky ways of deploying hypothesis, as a backup method if the other methods fail. The main thing is to remain flexible to different technological contexts, so you can provide your students with options and react to obstacles as they arise.
+The reason we are looking at four different ways of using Hypothesis is to give you the flexibility for using any one of these options. Your technological circumstance will depend on whether you're reading texts on a course website, such as PDFs that you upload, or on the web generally, like news websites or blog posts. You'll also learn some hacky ways of deploying hypothesis, as a backup method if the other methods fail. The main thing is to remain flexible to different technological contexts, so you can provide your students with options and react to obstacles as they arise.
 
 ## Making Annotations
 
@@ -121,12 +147,12 @@ To annotate, press the relevant button, and the sidebar will expand. Now, you'll
 
 And that's it! Now, let's dive into the four options for using H. 
 
-# First Option: H on the CUNY Academic Commons
+# First Option: Hypothesis on the CUNY Academic Commons
 <!-- Add consideration for what CMS your campus is using, how do you work with your campus? What does Queens use? -->
 
 First, if you haven't already, please [sign up for a Hypothesis account](https://hypothes.is/signup). 
 
-Using H on the CUNY Academic Commons is the easiest option for your students. They won't have to download or configure anything on their own, because you've already done it for them. They will just need to navigate to the correct CUNY Academic Commons course website and the annotation tool will function automatically. 
+Using Hypothesis on the CUNY Academic Commons is the easiest option for your students. They won't have to download or configure anything on their own, because you've already done it for them. They will just need to navigate to the correct CUNY Academic Commons course website and the annotation tool will function automatically. 
 
 This is also arguably the easiest method for the teacher, provided that they already have a course website on the Commons. If you don't have an account on the CUNY Academic Commons, [sign up here](https://commons.gc.cuny.edu/register/). And, if you don't have a course website set up, you can [follow these directions](https://help.commons.gc.cuny.edu/creation-portal-sites/). 
 
@@ -144,7 +170,7 @@ Next, you'll see a *loooong* list of plugins that are already installed, but not
 
 Found it? Good. Now click on the "Activate" button underneath the name.
 
-![Image of Activating H in Plugins Directory](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/plugins1.png)
+![Image of Activating Hypothesis in Plugins Directory](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/plugins1.png)
 
 Great! You're almost there. 
 
@@ -160,13 +186,13 @@ If I don't want Hypothesis to load on the front page, or on specific pages, I ju
 
 At the bottom, you can manually indicate which pages that Hypothesis should be active. Type the page names into the text box, making sure to copy the name from the way it appears in the URL (you can navigate to the page in your browser, then take a look at the URL bar to see the page name within the larger URL statement). If you're going to manually enter more than one page, use commas and no spaces to separate page names. See below for an example.
 
-![Image of Configuring H Settings Manually](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/settings2.png)
+![Image of Configuring Hypothesis Settings Manually](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/settings2.png)
 
 Always remember to press "Save Changes" at the bottom of this page after you've finished entering your settings. 
 
 And that's it! You should be able to see Hypothesis automatically load on the pages or PDFs of your course site, depending on how you've configured the settings. If it's not to your liking, you can always come back to change things later. 
 
-# Second Option: H as a Browser Extension
+# Second Option: Hypothesis as a Browser Extension
 
 Using Hypothesis as a Browser Extension means that you will be activing the tool when you navigate to a website. It is slightly more work for the user, but it is not technically difficult. In order to use the browser method, you must install the plugin herself on either Chrome or Firefox browsers. If you cannot use one of these web browsers, skip down to the **Via Method** option for using Hypothesis.
 
@@ -176,7 +202,7 @@ The next steps for installing and activating the plugin will depend on whether y
 
 If you get stuck or want more information, check out Hypothesis's "[Quick Guide for Teachers](https://web.hypothes.is/quick-start-guide/)."
 
-## Using H with Firefox: The Bookmarklet
+## Using Hypothesis with Firefox: The Bookmarklet
 
 Begin on the Hypothesis "Get Started" page. Under the step #2 heading, "Add Hypothesis to your browser," look for the **Hypothesis Bookmarklet** button. 
 
@@ -186,9 +212,9 @@ Right click on this button (on a laptop, you can do this by pressing two fingers
 
 Alternatively, you can click and drag the button onto your Bookmarks Toolbar. Either way, make sure you note where the bookmark is saved, so you can access it later.
 
-To activate the tool, you'll simply click on the Hypothes.is bookmark from your bookmark menu. This will automatically load Hypothesis on whatever page is currently in your browser. 
+To activate the tool, you'll simply click on the Hypothesis bookmark from your bookmark menu. This will automatically load Hypothesis on whatever page is currently in your browser. 
 
-![Image of activating the H bookmarklet](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/bookmark2.png)
+![Image of activating the Hypothesis bookmarklet](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/bookmark2.png)
 
 The Hypothesis toolbar should appear on the righthand side, as a panel on the edge of your window. You can expand the toolbar by clicking on the little arrow at the top of this panel.
 
@@ -196,11 +222,11 @@ The Hypothesis toolbar should appear on the righthand side, as a panel on the ed
 
 In order to make annotations, you'll have to login to your Hypothesis account.
 
-![Image of logging into H account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/firefox_login.png)
+![Image of logging into Hypothesis account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/firefox_login.png)
 
 You can test out this method by navigating to your favorite website and clicking the bookmark. You'll see that some really large websites (like [The New York Times](https://nytimes.com)) take a little while to load the tool, while smaller websites (like [CBS New York](https://newyork.cbslocal.com/category/news/ny-news/)) will load the tool almost immediately. Make sure you test out the bookmarklet on whatever site you're using before sending your students over to annotate on that site. 
 
-## Using H with Chrome: the Plugin
+## Using Hypothesis with Chrome: the Plugin
 
 First, go to the Google Chrome web store, and [search Hypothesis](https://chrome.google.com/webstore/search/hypothesis). The digital annotation tool should be the top result. 
 
@@ -215,7 +241,7 @@ In the dropdown menu that appears, click on the "More Tools" option. Another dro
 
 Here, you'll make sure that the plugin is turned on by flipping the little switch in the box that says "Hypothesis". 
 
-![Image of H on Chrome Extensions settings, making sure to flip the switch to activate the plugin](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome2.1.png)
+![Image of Hypothesis on Chrome Extensions settings, making sure to flip the switch to activate the plugin](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome2.1.png)
 
 The Hypothesis browser extension should now be active on your Chrome browser. You should be able to see it in your toolbar, at the top right. The icon looks like the letter "h" within a speech bubble. 
 
@@ -225,7 +251,7 @@ To activate Hypothesis on the current webpage, simply click on this icon. Then, 
 
 In order to make annotations, you'll have to login to your Hypothesis account.
 
-![Image of logging into H account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome4.png)
+![Image of logging into Hypothesis account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome4.png)
 
 # Third Option: The Via Method
 
@@ -253,7 +279,7 @@ When everything looks ready, you can reload the page (do this by pressing enter)
 
 Neat, right? This little prefix `https://via.hypothes.is/ ` activates hypothesis on whatever website that follows the Via URL. You can copy and paste the snippit wherever you want it, and you don't need to mess with the browser extension or embedding the tool at all. Like I said before, the Via Method works very well as a back-up option. 
 
-# Fourth Option: Embedding H into your Website
+# Fourth Option: Embedding Hypothesis into your Website
 
 This is the more advanced option. It requires that you have access to your own website, and can modify the HTML files that make up your website. If you *do* have access to your HTML files, you can insert a little script at the bottom of each file that tells the browser to load Hypothesis automatically on that page. 
 
@@ -291,9 +317,9 @@ To create reading groups, send your students a registration link to join the gro
 
 Before getting started, make sure you have [created an account on Hypothesis](https://hypothes.is/signup). 
 
-Then, go to your account page on Hypothes.is (the first page after loggin in). On the top right hand corner, there's a little tab called "Groups." Click or hover on this tab to open the drop-down menu. Select "Create a New Group."
+Then, go to your account page on Hypothesis (the first page after loggin in). On the top right hand corner, there's a little tab called "Groups." Click or hover on this tab to open the drop-down menu. Select "Create a New Group."
 
-![Image of selecting Create New Group from H Account page drop down menu](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups1.png)
+![Image of selecting Create New Group from Hypothesis Account page drop down menu](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups1.png)
 
 Give a name to the group. I usually use my course code, with the section number, like ENLG22049, or something. Below the group name, include a brief description of the group, using the full course name, school, and semester/year. 
 
@@ -309,7 +335,7 @@ First, activate Hypothesis on your webpage (if not already activated). Make sure
 
 Then, expand the sidebar by clicking the arrow on the right. Now, look for the "Public" tab at the top of the sidebar. Click or hover on this tab, and a dropdown menu will appear. Here, select the group that you want to activate. 
 
-![Image of selecting reading group from H sidebar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups3.png)
+![Image of selecting reading group from Hypothesis sidebar](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups3.png)
 
 And that's it! 
 
@@ -317,7 +343,7 @@ Remember to remind your students to select this group before annotating. Otherwi
 
 You can review group activity on the Hypothesis user page. Just navigate to your account on Hypothes.is, and at the top right, where it says "Groups," select your group. You will be taken to a page that shows all the documents annotated by that group. By selecting the individual documents, you'll get a list of all the annotators on that page. This is a quick and easy way to check who has annotated a given page, without having to scroll through all the annotations. 
 
-![Image of viewing group activity on H website](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups4.png)
+![Image of viewing group activity on Hypothesis website](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/groups4.png)
 
 If you want more help with configuring groups, check out Hypothesis's [Reading Groups tutorial](https://web.hypothes.is/help/annotating-with-groups/).
 
