@@ -14,7 +14,7 @@ By introducing participants to the different options for using this tool, this w
 
 Jump to a specific section of the workshop:
 
-- [What is Digital Annotation?](#What-is-Digital-Annotation?)
+- [What is Digital Annotation?](#What_is_Digital-Annotation?)
 - [Up and Running with Hypothesis](#Up-and-Running-with-Hypothesis)
 - [First Option: on the CUNY Academic Commons](#First-Option:-Hypothesis-on-the-CUNY-Academic-Commons)
 - [Second Option: as a Browser Extension](#Second-Option:-Hypothesis-as-a-Browser-Extension)
