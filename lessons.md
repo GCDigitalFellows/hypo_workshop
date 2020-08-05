@@ -18,7 +18,7 @@ Jump to a specific section of the workshop:
 - [Up and Running with Hypothesis](#up-and-running)
 - [First Option: on the CUNY Academic Commons](#first-option)
 - [Second Option: as a Browser Extension](#second-option)
-- [Third Option: the Via Method](#via)
+- [Third Option: the Via Method](#third-option)
 - [Fourth Option: Embedding into Websites](#fourth-option)
 - [Configuring Reading Groups](#reading-groups)
 
@@ -79,11 +79,11 @@ In this image, I use hypothesis for modeling "close reading," or close attention
 
 Here, you can see a more free form use of annotation, with students taking initiative to comment on what seems most interesting to them. For this class, I gave explicit directions for students to comment on things that are striking to them, while still providing them with some prompts to act as guidance. Here are the prompts that I distributed to my students:
 
-> Your comment might do any of the following: 
-> - In your comment, identify a **literary device** from the text selection, and explain how the device enhances a certain quality about the person or idea that is being described, or relates to a course theme. 
-> - In your comment, pinpoint **a theme or recurring idea** from the text. How does the text selection elaborate or complicate the theme? 
-> - Use your comment as a space to work toward crafting **a discussion question** about the text selection. Think of a question that would provoke discussion and even debate among your peers. 
-> - Instead of creating your own comment, you can **respond to someone else**, and use that opportunity to offer your own thoughts or extend the conversation. You can use their as a jumping off point for your own ideas, or present another point of view on the topic.
+    Your comment might do any of the following: 
+    - In your comment, identify a literary devicefrom the text selection, and explain how the device enhances a certain quality about the person or idea that is being described, or relates to a course theme. 
+    - In your comment, pinpoint a theme or recurring idea from the text. How does the text selection elaborate or complicate the theme? 
+    - Use your comment as a space to work toward crafting a discussion question about the text selection. Think of a question that would provoke discussion and even debate among your peers. 
+    - Instead of creating your own comment, you can respond to someone else, and use that opportunity to offer your own thoughts or extend the conversation. You can use their as a jumping off point for your own ideas, or present another point of view on the topic.
 
 I've found that giving my students some structure is much more effective for encouraging them to annotate. With this structure, I'm able to guide their responses toward achieving some of our learning objectives of the course. Often, they use these prompts as a starting point that leads them toward a more freeform and generative answer. I think of these guidelines as an enabling constraint. 
 
@@ -279,7 +279,7 @@ When everything looks ready, you can reload the page (do this by pressing enter)
 
 Neat, right? This little prefix `https://via.hypothes.is/ ` activates hypothesis on whatever website that follows the Via URL. You can copy and paste the snippit wherever you want it, and you don't need to mess with the browser extension or embedding the tool at all. Like I said before, the Via Method works very well as a back-up option. 
 
-# <a id="fourth-option>Fourth Option: Embedding Hypothesis into your Website</a>
+# <a id="fourth-option">Fourth Option: Embedding Hypothesis into your Website</a>
 
 This is the more advanced option. It requires that you have access to your own website, and can modify the HTML files that make up your website. If you *do* have access to your HTML files, you can insert a little script at the bottom of each file that tells the browser to load Hypothesis automatically on that page. 
 
