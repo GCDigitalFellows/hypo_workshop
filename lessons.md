@@ -24,7 +24,7 @@ Jump to a specific section of the workshop:
 - [Configuring Reading Groups](#Reading-Groups)
 
 
-# What is Digital Annotation? {#wida}
+# <a id="wida">What is Digital Annotation?</a>
 
 Let's begin by quickly defining "Digital Annotation." Digital Annotation is the use of digital tools to mark up electronic text, in the form of highlighting or commenting. It can be used individually (for self-study and research purposes) or for social reading.
 
@@ -118,7 +118,7 @@ For those of you who want to dig into specifics of using annotation in the class
 
 If you want to give your students some guidelines for annotating, send them these [Annotation tips for Students](https://web.hypothes.is/annotation-tips-for-students/). This article goes through how to make an annotation, what to pay attention to, and how to make annotations contribute to the reading (rather than summarize the reading). There's also technical information for students who want a little tutorial on how to use the annotation sidebar. 
 
-# Up and Running with Hypothesis {#uarwh}
+# <a id="uarwh">Up and Running with Hypothesis</a>
 
 ## Creating an Account on hypothesis
 
