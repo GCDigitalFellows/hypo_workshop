@@ -14,8 +14,9 @@ By introducing participants to the different options for using this tool, this w
 
 Jump to a specific section of the workshop:
 
-- [What is Digital Annotation?](#What_is_Digital-Annotation?)
-- [Up and Running with Hypothesis](#Up-and-Running-with-Hypothesis)
+[link text](http://...#abcd)
+- [What is Digital Annotation?](#wida)
+- [Up and Running with Hypothesis](https://digitalfellows.commons.gc.cuny.edu/teaching-with-hypothes-lessons#uarwh)
 - [First Option: on the CUNY Academic Commons](#First-Option:-Hypothesis-on-the-CUNY-Academic-Commons)
 - [Second Option: as a Browser Extension](#Second-Option:-Hypothesis-as-a-Browser-Extension)
 - [Third Option: the Via Method](#Third-Option:-The-Via-Method)
@@ -23,7 +24,7 @@ Jump to a specific section of the workshop:
 - [Configuring Reading Groups](#Reading-Groups)
 
 
-# What is Digital Annotation? 
+# What is Digital Annotation? {#wida}
 
 Let's begin by quickly defining "Digital Annotation." Digital Annotation is the use of digital tools to mark up electronic text, in the form of highlighting or commenting. It can be used individually (for self-study and research purposes) or for social reading.
 
@@ -79,11 +80,11 @@ In this image, I use hypothesis for modeling "close reading," or close attention
 
 Here, you can see a more free form use of annotation, with students taking initiative to comment on what seems most interesting to them. For this class, I gave explicit directions for students to comment on things that are striking to them, while still providing them with some prompts to act as guidance. Here are the prompts that I distributed to my students:
 
-Your comment might do any of the following: 
-- In your comment, identify a **literary device** from the text selection, and explain how the device enhances a certain quality about the person or idea that is being described, or relates to a course theme. 
-- In your comment, pinpoint **a theme or recurring idea** from the text. How does the text selection elaborate or complicate the theme? 
-- Use your comment as a space to work toward crafting **a discussion question** about the text selection. Think of a question that would provoke discussion and even debate among your peers. 
-- Instead of creating your own comment, you can **respond to someone else**, and use that opportunity to offer your own thoughts or extend the conversation. You can use their as a jumping off point for your own ideas, or present another point of view on the topic.
+> Your comment might do any of the following: 
+> - In your comment, identify a **literary device** from the text selection, and explain how the device enhances a certain quality about the person or idea that is being described, or relates to a course theme. 
+> - In your comment, pinpoint **a theme or recurring idea** from the text. How does the text selection elaborate or complicate the theme? 
+> - Use your comment as a space to work toward crafting **a discussion question** about the text selection. Think of a question that would provoke discussion and even debate among your peers. 
+> - Instead of creating your own comment, you can **respond to someone else**, and use that opportunity to offer your own thoughts or extend the conversation. You can use their as a jumping off point for your own ideas, or present another point of view on the topic.
 
 I've found that giving my students some structure is much more effective for encouraging them to annotate. With this structure, I'm able to guide their responses toward achieving some of our learning objectives of the course. Often, they use these prompts as a starting point that leads them toward a more freeform and generative answer. I think of these guidelines as an enabling constraint. 
 
@@ -117,7 +118,7 @@ For those of you who want to dig into specifics of using annotation in the class
 
 If you want to give your students some guidelines for annotating, send them these [Annotation tips for Students](https://web.hypothes.is/annotation-tips-for-students/). This article goes through how to make an annotation, what to pay attention to, and how to make annotations contribute to the reading (rather than summarize the reading). There's also technical information for students who want a little tutorial on how to use the annotation sidebar. 
 
-# Up and Running with Hypothesis
+# Up and Running with Hypothesis {#uarwh}
 
 ## Creating an Account on hypothesis
 
