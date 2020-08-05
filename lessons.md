@@ -14,17 +14,16 @@ By introducing participants to the different options for using this tool, this w
 
 Jump to a specific section of the workshop:
 
-[link text](http://...#abcd)
-- [What is Digital Annotation?](#wida)
-- [Up and Running with Hypothesis](https://digitalfellows.commons.gc.cuny.edu/teaching-with-hypothes-lessons#uarwh)
-- [First Option: on the CUNY Academic Commons](#First-Option:-Hypothesis-on-the-CUNY-Academic-Commons)
-- [Second Option: as a Browser Extension](#Second-Option:-Hypothesis-as-a-Browser-Extension)
-- [Third Option: the Via Method](#Third-Option:-The-Via-Method)
-- [Fourth Option: Embedding into Websites](#Fourth-Option:-Embedding-Hypothesis-into-your-Website)
-- [Configuring Reading Groups](#Reading-Groups)
+- [What is Digital Annotation?](#what-is)
+- [Up and Running with Hypothesis](#up-and-running)
+- [First Option: on the CUNY Academic Commons](#first-option)
+- [Second Option: as a Browser Extension](#second-option)
+- [Third Option: the Via Method](#via)
+- [Fourth Option: Embedding into Websites](#fourth-option)
+- [Configuring Reading Groups](#reading-groups)
 
 
-# <a id="wida">What is Digital Annotation?</a>
+# <a id="what-is">What is Digital Annotation?</a>
 
 Let's begin by quickly defining "Digital Annotation." Digital Annotation is the use of digital tools to mark up electronic text, in the form of highlighting or commenting. It can be used individually (for self-study and research purposes) or for social reading.
 
@@ -118,7 +117,7 @@ For those of you who want to dig into specifics of using annotation in the class
 
 If you want to give your students some guidelines for annotating, send them these [Annotation tips for Students](https://web.hypothes.is/annotation-tips-for-students/). This article goes through how to make an annotation, what to pay attention to, and how to make annotations contribute to the reading (rather than summarize the reading). There's also technical information for students who want a little tutorial on how to use the annotation sidebar. 
 
-# <a id="uarwh">Up and Running with Hypothesis</a>
+# <a id="up-and-running">Up and Running with Hypothesis</a>
 
 ## Creating an Account on hypothesis
 
@@ -148,7 +147,7 @@ To annotate, press the relevant button, and the sidebar will expand. Now, you'll
 
 And that's it! Now, let's dive into the four options for using H. 
 
-# First Option: Hypothesis on the CUNY Academic Commons
+# <a id="first-option">First Option: Hypothesis on the CUNY Academic Commons</a>
 <!-- Add consideration for what CMS your campus is using, how do you work with your campus? What does Queens use? -->
 
 First, if you haven't already, please [sign up for a Hypothesis account](https://hypothes.is/signup). 
@@ -193,7 +192,7 @@ Always remember to press "Save Changes" at the bottom of this page after you've 
 
 And that's it! You should be able to see Hypothesis automatically load on the pages or PDFs of your course site, depending on how you've configured the settings. If it's not to your liking, you can always come back to change things later. 
 
-# Second Option: Hypothesis as a Browser Extension
+# <a id="second-option">Second Option: Hypothesis as a Browser Extension</a>
 
 Using Hypothesis as a Browser Extension means that you will be activing the tool when you navigate to a website. It is slightly more work for the user, but it is not technically difficult. In order to use the browser method, you must install the plugin herself on either Chrome or Firefox browsers. If you cannot use one of these web browsers, skip down to the **Via Method** option for using Hypothesis.
 
@@ -254,7 +253,7 @@ In order to make annotations, you'll have to login to your Hypothesis account.
 
 ![Image of logging into Hypothesis account](https://raw.githubusercontent.com/gofilipa/hypo_workshop/master/images/chrome4.png)
 
-# Third Option: The Via Method
+# <a id="third-option">Third Option: The Via Method</a>
 
 This option is slightly more advanced than the browser extension method, but it is more reliable and can be a good back-up method in the event that the browser extension isn't working properly. You can think of it as a hack that gets hypothesis to load when all else fails. 
 
@@ -280,7 +279,7 @@ When everything looks ready, you can reload the page (do this by pressing enter)
 
 Neat, right? This little prefix `https://via.hypothes.is/ ` activates hypothesis on whatever website that follows the Via URL. You can copy and paste the snippit wherever you want it, and you don't need to mess with the browser extension or embedding the tool at all. Like I said before, the Via Method works very well as a back-up option. 
 
-# Fourth Option: Embedding Hypothesis into your Website
+# <a id="fourth-option>Fourth Option: Embedding Hypothesis into your Website</a>
 
 This is the more advanced option. It requires that you have access to your own website, and can modify the HTML files that make up your website. If you *do* have access to your HTML files, you can insert a little script at the bottom of each file that tells the browser to load Hypothesis automatically on that page. 
 
@@ -310,7 +309,7 @@ And that's it!
 
 If you need more help or want to further configure how Hypothesis appears on the site, check out the [more detailed instructions here](https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/).
 
-# Reading Groups
+# <a id="reading-groups">Reading Groups</a>
 
 Have your students annotate as part of a “Reading Group,” which keeps groups annotations limited to viewing and responding within group members. Reading groups are recommended if you want multiple groups annotating the same document over time, and necessary if you want those groups of people to not see previous group’s annotations (for example, annotations from a class last semester). They are also easier for grading, because instructors will have access to all of the annotations in one place. 
 
