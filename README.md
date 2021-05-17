@@ -1,5 +1,7 @@
 # Introduction to Hypothesis
 
+Skip to [Frontmatter](frontmatter.md).
+
 Workshop for using [Hypothes.is](https://web.hypothes.is/) digital annotation tool for teaching.
 
 ## Credits
@@ -15,5 +17,13 @@ Abstract:
 
 ## Requirements
 Students should have access to a web browser that can download a plugin. 
+
+## License
+
+Workshop leader: Filipa Calado, Graduate Center Digital Fellows
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 

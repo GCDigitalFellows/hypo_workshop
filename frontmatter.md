@@ -1,5 +1,7 @@
 # Frontmatter
 
+Skip to [Workshop](lessons.md).
+
 ## Abstract
 
 For this workshop, we will explore [Hypothes.is](https://web.hypothes.is/), a versatile digital annotation tool, for social reading online. Throughout the workshop, we review the various options for deploying Hypothes.is on a web browser. By introducing participants to the different options of using this tool, the workshop empowers them to remain flexible in adapting to student needs and technological contexts. Participants will leave this workshop with concrete skills for using digital annotation and some ideas for how it can enhance their own goals for the classroom. 
@@ -50,6 +52,10 @@ In this workshop, participants will:
 - [Hypothes.is official Troubleshooting page](https://web.hypothes.is/help-categories/troubleshooting/)
 - **Advanced**: [Developer's overview of the Hypothes.is system](https://web.hypothes.is/help/overview-of-the-hypothesis-system/)
 
-## Acknowledgements
+## License
 
-- Filipa Calado
+Workshop leader: Filipa Calado, Graduate Center Digital Fellows
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
